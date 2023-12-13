@@ -1,2 +1,2 @@
 # statistics_pytho
-this repository include all methods of statistics library 
+This repository include all methods of statistics library 
